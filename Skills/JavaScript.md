@@ -19,6 +19,24 @@
   - async iterator:🖐️ used
   - chaining:👂 heard
   - optional chaining:👂 heard
+  - Object:👂 heard
+  - this:👂 heard
+  - arrow function
+  - async function
+  - call:👂 heard
+  - bind
+  - apply
+  - instanceof
+  - ...spread
+  - ...rest
+  - typeof:👂 heard
+  - destructuring
+  - generator
+  - iterator:👂 heard
+  - async generator
+  - async iterator
+  - chaining
+  - optional chaining
   - IIFE
   - global
   - globalThis
@@ -32,6 +50,13 @@
   - ternary operator:🖐️ used
   - void:👂 heard
   - yield:👂 heard
+  - prototype
+  - equality operators
+  - logical operators
+  - bitwise operators
+  - ternary operator
+  - void:👂 heard
+  - yield
   - await:👂 heard
   - template literal
   - strict mode
@@ -75,6 +100,42 @@
   - undefined
   - null:🖐️ used
   - Proxy:👂 heard
+  - Reflect
+- Statements
+  - if:👂 heard
+  - while:👂 heard
+  - do..while:👂 heard
+  - for:👂 heard
+  - for..in:👂 heard
+  - for..of
+  - for await
+  - throw
+  - break:👂 heard
+  - continue:👂 heard
+  - import:👂 heard
+  - export:👂 heard
+  - label
+  - try..catch
+  - switch:👂 heard
+  - class:👂 heard
+  - new Error
+  - with
+- Functions
+  - function declaration
+  - function expression
+  - return:👂 heard
+  - default parameters
+  - functional object
+- Data structures
+  - Array:👂 heard
+  - mixin
+  - extend
+  - typed arrays
+  - Map:👂 heard
+  - Set
+  - undefined
+  - null:👂 heard
+  - Proxy
   - weak collections
   - timers:👂 heard
   - EventEmitter
@@ -86,4 +147,8 @@
   - Node.js:🖐️ used
   - npm
   - prettier:🖐️ used
+  - V8:👂 heard
+  - Node.js:👂 heard
+  - npm
+  - prettier:🎓 known
   - MDN:👂 heard

@@ -48,6 +48,54 @@
   - memoize:🎓 known
   - wrapper:👂 heard
   - functor:👂 heard
+=======
+  - value:🎓 known
+  - identifier:🎓 known
+  - variable:🎓 known
+  - constant:🎓 known
+  - scalar
+  - literal:👂 heard
+  - expression:🎓 known
+  - heap:👂 heard
+  - function:🎓 known
+  - procedure:👂 heard
+  - method:🎓 known
+  - class:🎓 known
+  - prototype
+  - event:👂 heard
+  - type:🎓 known
+  - primitive types:🎓 known
+  - reference types:👂 heard
+  - flag:👂 heard
+  - lexical scope
+  - code block:🎓 known
+  - conditions
+  - loops:🎓 known
+  - assignment
+  - regular expression
+  - interface:🎓 known
+  - contract
+  - module:👂 heard
+  - call stack:👂 heard
+- Functions
+  - signature
+  - argument:🎓 known
+  - parameter:🎓 known
+  - pure function:🎓 known
+  - lambda expression
+  - side effects
+  - closure
+  - partial application
+  - curry
+  - higher order
+  - recursion:🖐️ used
+  - callback
+  - listener
+  - compose
+  - pipe
+  - memoize
+  - wrapper
+  - functor
   - monad
   - monoid
   - generator:👂 heard
@@ -73,6 +121,26 @@
   - tree:🎓 known
   - graph:👂 heard
   - iterator:🖐️ used
+  - array:👂 heard
+  - structure:🎓 known
+  - record:👂 heard
+  - enum:👂 heard
+  - instance:👂 heard
+  - object:🎓 known
+  - class:🎓 known
+  - collection:🎓 known
+  - set
+  - hash table:👂 heard
+  - linked list:👂 heard
+  - doubly list:👂 heard
+  - unrolled list:👂 heard
+  - circular list:👂 heard
+  - queue:🖐️ used
+  - stack
+  - deque
+  - tree:👂 heard
+  - graph
+  - iterator:🎓 known
   - mutable state
   - immutable state
   - serialization
@@ -83,6 +151,11 @@
   - linter
   - polyfill:👂 heard
   - debugger:🖐️ used
+  - compiler:👂 heard
+  - transpiler
+  - linter
+  - polyfill
+  - debugger:👂 heard
   - garbage collection
   - refactoring:👂 heard
   - code review:👂 heard
@@ -91,6 +164,9 @@
   - algorithm:🖐️ used
   - magic numbers:👂 heard
   - hardcode:👂 heard
+  - algorithm:🎓 known
+  - magic numbers:👂 heard
+  - hardcode
   - complexity
   - decomposition:👂 heard
   - spaghetti:👂 heard
@@ -104,3 +180,5 @@
   - unittest
   - git:🎓 known
   - github:🖐️ used
+  - git:👂 heard
+  - github:👂 heard
