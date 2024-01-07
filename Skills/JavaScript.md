@@ -1,20 +1,20 @@
 ## JavaScript
 
 - Language
-  - Object
-  - this
+  - Object:👂 heard
+  - this:👂 heard
   - arrow function
   - async function
-  - call
+  - call:👂 heard
   - bind
   - apply
   - instanceof
   - ...spread
   - ...rest
-  - typeof
+  - typeof:👂 heard
   - destructuring
   - generator
-  - iterator
+  - iterator:👂 heard
   - async generator
   - async iterator
   - chaining
@@ -30,60 +30,60 @@
   - logical operators
   - bitwise operators
   - ternary operator
-  - void
+  - void:👂 heard
   - yield
-  - await
+  - await:👂 heard
   - template literal
   - strict mode
   - delete
   - in
   - super
-  - Symbol
+  - Symbol:👂 heard
   - Reflect
 - Statements
-  - if
-  - while
-  - do..while
-  - for
-  - for..in
+  - if:👂 heard
+  - while:👂 heard
+  - do..while:👂 heard
+  - for:👂 heard
+  - for..in:👂 heard
   - for..of
   - for await
   - throw
-  - break
-  - continue
-  - import
-  - export
+  - break:👂 heard
+  - continue:👂 heard
+  - import:👂 heard
+  - export:👂 heard
   - label
   - try..catch
-  - switch
-  - class
+  - switch:👂 heard
+  - class:👂 heard
   - new Error
   - with
 - Functions
   - function declaration
   - function expression
-  - return
+  - return:👂 heard
   - default parameters
   - functional object
 - Data structures
-  - Array
+  - Array:👂 heard
   - mixin
   - extend
   - typed arrays
-  - Map
+  - Map:👂 heard
   - Set
   - undefined
-  - null
+  - null:👂 heard
   - Proxy
   - weak collections
-  - timers
+  - timers:👂 heard
   - EventEmitter
   - RegExp
   - Date
   - BigInt
 - Infrastructure
-  - V8
-  - Node.js
+  - V8:👂 heard
+  - Node.js:👂 heard
   - npm
-  - prettier
-  - MDN
+  - prettier:🎓 known
+  - MDN:👂 heard
