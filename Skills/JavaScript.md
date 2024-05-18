@@ -1,6 +1,24 @@
 ## JavaScript
 
 - Language
+  - Object:🖐️ used
+  - this:🖐️ used
+  - arrow function:🖐️ used
+  - async function:🖐️ used
+  - call:🖐️ used
+  - bind:🎓 known
+  - apply:🖐️ used
+  - instanceof:🎓 known
+  - ...spread:🎓 known
+  - ...rest:🎓 known
+  - typeof:👂 heard
+  - destructuring:🎓 known
+  - generator:🎓 known
+  - iterator:👂 heard
+  - async generator:🖐️ used
+  - async iterator:🖐️ used
+  - chaining:👂 heard
+  - optional chaining:👂 heard
   - Object:👂 heard
   - this:👂 heard
   - arrow function
@@ -25,6 +43,13 @@
   - window
   - getters and setters
   - __proto__
+  - prototype:👂 heard
+  - equality operators:👂 heard
+  - logical operators:🖐️ used
+  - bitwise operators:👂 heard
+  - ternary operator:🖐️ used
+  - void:👂 heard
+  - yield:👂 heard
   - prototype
   - equality operators
   - logical operators
@@ -35,10 +60,46 @@
   - await:👂 heard
   - template literal
   - strict mode
-  - delete
-  - in
+  - delete:🖐️ used
+  - in:🖐️ used
   - super
   - Symbol:👂 heard
+  - Reflect:👂 heard
+- Statements
+  - if:🖐️ used
+  - while:🖐️ used
+  - do..while:🖐️ used
+  - for:🖐️ used
+  - for..in:🖐️ used
+  - for..of:🎓 known
+  - for await:🎓 known
+  - throw:🎓 known
+  - break:🖐️ used
+  - continue:🖐️ used
+  - import:🖐️ used
+  - export:🖐️ used
+  - label:🎓 known
+  - try..catch:🎓 known
+  - switch:🖐️ used
+  - class:🖐️ used
+  - new Error:🎓 known
+  - with:🎓 known
+- Functions
+  - function declaration:👂 heard
+  - function expression:👂 heard
+  - return:🖐️ used
+  - default parameters:👂 heard
+  - functional object:👂 heard
+- Data structures
+  - Array:🖐️ used
+  - mixin:👂 heard
+  - extend:👂 heard
+  - typed arrays:🖐️ used
+  - Map:🖐️ used
+  - Set:👂 heard
+  - undefined
+  - null:🖐️ used
+  - Proxy:👂 heard
   - Reflect
 - Statements
   - if:👂 heard
@@ -82,6 +143,10 @@
   - Date
   - BigInt
 - Infrastructure
+  - V8:🖐️ used
+  - Node.js:🖐️ used
+  - npm
+  - prettier:🖐️ used
   - V8:👂 heard
   - Node.js:👂 heard
   - npm

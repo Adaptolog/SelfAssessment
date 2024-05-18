@@ -1,6 +1,54 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
+  - value:🖐️ used
+  - identifier:🎓 known
+  - variable:🎓 known
+  - constant:🖐️ used
+  - scalar:👂 heard
+  - literal:🎓 known
+  - expression:🎓 known
+  - heap:🎓 known
+  - function:🖐️ used
+  - procedure:🎓 known
+  - method:🎓 known
+  - class:🖐️ used
+  - prototype:👂 heard
+  - event:👂 heard
+  - type:🖐️ used
+  - primitive types:🖐️ used
+  - reference types:🖐️ used
+  - flag:👂 heard
+  - lexical scope
+  - code block:🖐️ used
+  - conditions
+  - loops:🖐️ used
+  - assignment
+  - regular expression
+  - interface:🖐️ used
+  - contract
+  - module:🎓 known
+  - call stack:👂 heard
+- Functions
+  - signature
+  - argument:🖐️ used
+  - parameter:🖐️ used
+  - pure function:🎓 known
+  - lambda expression:👂 heard
+  - side effects:👂 heard
+  - closure:👂 heard
+  - partial application:👂 heard
+  - curry:👂 heard
+  - higher order:👂 heard
+  - recursion:🖐️ used
+  - callback:👂 heard
+  - listener:👂 heard
+  - compose:👂 heard
+  - pipe:👂 heard
+  - memoize:🎓 known
+  - wrapper:👂 heard
+  - functor:👂 heard
+=======
   - value:🎓 known
   - identifier:🎓 known
   - variable:🎓 known
@@ -50,9 +98,29 @@
   - functor
   - monad
   - monoid
-  - generator
+  - generator:👂 heard
   - coroutine
 - Data structures
+  - array:🖐️ used
+  - structure:🎓 known
+  - record:👂 heard
+  - enum:🖐️ used
+  - instance:👂 heard
+  - object:🖐️ used
+  - class:🖐️ used
+  - collection:🖐️ used
+  - set
+  - hash table:🎓 known
+  - linked list:🖐️ used
+  - doubly list:🎓 known
+  - unrolled list:🎓 known
+  - circular list:🎓 known
+  - queue:🖐️ used
+  - stack
+  - deque
+  - tree:🎓 known
+  - graph:👂 heard
+  - iterator:🖐️ used
   - array:👂 heard
   - structure:🎓 known
   - record:👂 heard
@@ -78,6 +146,11 @@
   - serialization
   - string parsing:🎓 known
 - Process & style
+  - compiler:🖐️ used
+  - transpiler:👂 heard
+  - linter
+  - polyfill:👂 heard
+  - debugger:🖐️ used
   - compiler:👂 heard
   - transpiler
   - linter
@@ -88,12 +161,15 @@
   - code review:👂 heard
   - antipatterns:👂 heard
   - paradigm:👂 heard
+  - algorithm:🖐️ used
+  - magic numbers:👂 heard
+  - hardcode:👂 heard
   - algorithm:🎓 known
   - magic numbers:👂 heard
   - hardcode
   - complexity
-  - decomposition
-  - spaghetti
+  - decomposition:👂 heard
+  - spaghetti:👂 heard
   - silver bullet
   - not invented here
   - dead code:👂 heard
@@ -102,5 +178,7 @@
   - exception:👂 heard
   - return early:👂 heard
   - unittest
+  - git:🎓 known
+  - github:🖐️ used
   - git:👂 heard
   - github:👂 heard
