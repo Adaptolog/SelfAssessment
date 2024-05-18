@@ -1,7 +1,7 @@
 ## JavaScript
 
 - Language
-  - Object:🖐️ used
+  - Object:🖐️ use
   - this:🖐️ used
   - arrow function:🖐️ used
   - async function:🖐️ used
